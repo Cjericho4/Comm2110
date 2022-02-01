@@ -133,6 +133,6 @@ Improving the above:
 
 [^2]: Heuristic: enabling someone to discover or learn something for themselves.
 
-[^3]: A visual of Muted Group Theory. ![Muted Group Theory](./mutedGroupTheory.jpg)
+[^3]: A visual of Muted Group Theory. ![Muted Group Theory](./mutedGroupTheory.JPG)
 
 [^4]: For a list of idioms please visit [This Link](https://tinyurl.com/rtxklo5)

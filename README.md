@@ -1,4 +1,4 @@
-# Comm2110
+ Comm2110
 Interpersonal Communication Class at UVU
 
 All Notes are my own, and images are taken from the textbook that was provided at no cost to students for study only. 
